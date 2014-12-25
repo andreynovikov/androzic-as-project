@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Androzic.iml" filepath="$PROJECT_DIR$/Androzic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/android-support-v4-preferencefragment/android-support-v4-preferencefragment.iml" filepath="$PROJECT_DIR$/libraries/android-support-v4-preferencefragment/android-support-v4-preferencefragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androzic/androzic.iml" filepath="$PROJECT_DIR$/androzic/androzic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/color-picker-view/library/color-picker-view-library.iml" filepath="$PROJECT_DIR$/libraries/color-picker-view/library/color-picker-view-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/drag-sort-listview/library/drag-sort-listview-library.iml" filepath="$PROJECT_DIR$/libraries/drag-sort-listview/library/drag-sort-listview-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
+

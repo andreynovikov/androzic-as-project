@@ -1,0 +1,5 @@
+include ':androzic'
+include ':library'
+include ':libraries:drag-sort-listview:library'
+include ':libraries:color-picker-view:library'
+include ':libraries:android-support-v4-preferencefragment'

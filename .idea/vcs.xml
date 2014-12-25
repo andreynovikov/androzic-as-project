@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/androzic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libraries/android-support-v4-preferencefragment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libraries/drag-sort-listview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/library" vcs="Git" />
+  </component>
+</project>
+
