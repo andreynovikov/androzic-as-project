@@ -1,0 +1,12 @@
+[submodule "library"]
+	path = library
+	url = git@github.com:andreynovikov/androzic-library.git
+[submodule "androzic"]
+	path = androzic
+	url = git@github.com:andreynovikov/androzic.git
+[submodule "libraries/drag-sort-listview"]
+	path = libraries/drag-sort-listview
+	url = https://github.com/loeschg/drag-sort-listview.git
+[submodule "libraries/android-support-v4-preferencefragment"]
+	path = libraries/android-support-v4-preferencefragment
+	url = https://github.com/kolavar/android-support-v4-preferencefragment.git
