@@ -17,6 +17,8 @@
             <option value="$PROJECT_DIR$/libraries/drag-sort-listview" />
             <option value="$PROJECT_DIR$/libraries/drag-sort-listview/library" />
             <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/plugins" />
+            <option value="$PROJECT_DIR$/plugins/locationshare" />
           </set>
         </option>
       </GradleProjectSettings>
