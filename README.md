@@ -10,6 +10,6 @@ To get all stuff at once issue:
 
 For already cloned repo, just use:
 
-   git clone git://github.com/foo/bar.git
-   cd bar
-   git submodule update --init --recursive
+    git clone git://github.com/foo/bar.git
+    cd bar
+    git submodule update --init --recursive
