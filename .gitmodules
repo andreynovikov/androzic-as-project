@@ -13,3 +13,6 @@
 [submodule "plugins/locationshare"]
 	path = plugins/locationshare
 	url = git@github.com:andreynovikov/androzic-plugin-locationshare.git
+[submodule "plugins/tracker"]
+	path = plugins/tracker
+	url = git@github.com:andreynovikov/androzic-plugin-tracker.git

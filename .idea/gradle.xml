@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/plugins" />
             <option value="$PROJECT_DIR$/plugins/locationshare" />
+            <option value="$PROJECT_DIR$/plugins/tracker" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,6 +1,7 @@
 include ':androzic'
 include ':library'
 include ':plugins:locationshare'
+include ':plugins:tracker'
 include ':libraries:drag-sort-listview:library'
 include ':libraries:color-picker-view:library'
 include ':libraries:android-support-v4-preferencefragment'
