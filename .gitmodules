@@ -16,3 +16,6 @@
 [submodule "plugins/tracker"]
 	path = plugins/tracker
 	url = git@github.com:andreynovikov/androzic-plugin-tracker.git
+[submodule "libraries/geo-coordinate-conversion"]
+	path = libraries/geo-coordinate-conversion
+	url = https://github.com/andreynovikov/Geo-Coordinate-Conversion-Java.git
