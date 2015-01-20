@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/libraries/geo-coordinate-conversion/geo-coordinate-conversion.iml" filepath="$PROJECT_DIR$/libraries/geo-coordinate-conversion/geo-coordinate-conversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/locationshare/locationshare.iml" filepath="$PROJECT_DIR$/plugins/locationshare/locationshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinemaps/thunderforest/thunderforest.iml" filepath="$PROJECT_DIR$/onlinemaps/thunderforest/thunderforest.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugins/tracker/tracker.iml" filepath="$PROJECT_DIR$/plugins/tracker/tracker.iml" />
     </modules>
   </component>
