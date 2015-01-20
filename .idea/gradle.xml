@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/libraries/geo-coordinate-conversion" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/onlinemaps" />
+            <option value="$PROJECT_DIR$/onlinemaps/chartbundle" />
             <option value="$PROJECT_DIR$/onlinemaps/genshtab" />
             <option value="$PROJECT_DIR$/plugins" />
             <option value="$PROJECT_DIR$/plugins/locationshare" />
