@@ -7,6 +7,7 @@
     <mapping directory="$PROJECT_DIR$/libraries/drag-sort-listview" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/libraries/geo-coordinate-conversion" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/onlinemaps" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugins/locationshare" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugins/tracker" vcs="Git" />
   </component>
